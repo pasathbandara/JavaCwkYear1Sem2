@@ -1,0 +1,61 @@
+
+
+Cabin: 1
+Cabin 1. Passenger Number 1 :e e
+Cabin 1. Passenger Number 2 :e e
+Cabin 1. Passenger Number 3 :e e
+
+Cabin: 2
+Cabin 2. Passenger Number 1 :e e
+Cabin 2. Passenger Number 2 :e e
+Cabin 2. Passenger Number 3 :e e
+
+Cabin: 3
+Cabin 3. Passenger Number 1 :e e
+Cabin 3. Passenger Number 2 :e e
+Cabin 3. Passenger Number 3 :e e
+
+Cabin: 4
+Cabin 4. Passenger Number 1 :e e
+Cabin 4. Passenger Number 2 :e e
+Cabin 4. Passenger Number 3 :e e
+
+Cabin: 5
+Cabin 5. Passenger Number 1 :e e
+Cabin 5. Passenger Number 2 :e e
+Cabin 5. Passenger Number 3 :e e
+
+Cabin: 6
+Cabin 6. Passenger Number 1 :e e
+Cabin 6. Passenger Number 2 :e e
+Cabin 6. Passenger Number 3 :e e
+
+Cabin: 7
+Cabin 7. Passenger Number 1 :e e
+Cabin 7. Passenger Number 2 :e e
+Cabin 7. Passenger Number 3 :e e
+
+Cabin: 8
+Cabin 8. Passenger Number 1 :e e
+Cabin 8. Passenger Number 2 :e e
+Cabin 8. Passenger Number 3 :e e
+
+Cabin: 9
+Cabin 9. Passenger Number 1 :e e
+Cabin 9. Passenger Number 2 :e e
+Cabin 9. Passenger Number 3 :e e
+
+Cabin: 10
+Cabin 10. Passenger Number 1 :e e
+Cabin 10. Passenger Number 2 :e e
+Cabin 10. Passenger Number 3 :e e
+
+Cabin: 11
+Cabin 11. Passenger Number 1 :e e
+Cabin 11. Passenger Number 2 :e e
+Cabin 11. Passenger Number 3 :e e
+
+Cabin: 12
+Cabin 12. Passenger Number 1 :e e
+Cabin 12. Passenger Number 2 :e e
+Cabin 12. Passenger Number 3 :e e
